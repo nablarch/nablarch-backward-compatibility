@@ -29,6 +29,8 @@ dependencies {
   provided "com.nablarch.framework:nablarch-fw-web:${nablarchFwWebVersion}"
   provided "com.nablarch.framework:nablarch-fw-messaging:${nablarchFwMessagingVersion}"
 
+  testCompile 'junit:junit:4.12'
+
 }
 
 task wrapper(type: Wrapper) {
