@@ -7,7 +7,8 @@ package nablarch.fw.action;
  *
  * @author Iwauo Tajima
  * @author T.Kawasaki
- * @deprecated {@link nablarch.fw.messaging.action.MessagingAction}
+ * @deprecated バージョン5以降では、新しいパッケージの{@link nablarch.fw.messaging.action.MessagingAction}を使用すること。
  */
+@Deprecated
 public abstract class MessagingAction extends nablarch.fw.messaging.action.MessagingAction {
 }
