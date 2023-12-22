@@ -5,7 +5,7 @@
 
   <groupId>com.nablarch.framework</groupId>
   <artifactId>nablarch-backward-compatibility</artifactId>
-  <version>1.1.0</version>
+  <version>2.0.0</version>
   <packaging>jar</packaging>
   <description>後方互換性を維持するためのモジュール</description>
 
@@ -18,7 +18,7 @@
   <parent>
     <groupId>com.nablarch</groupId>
     <artifactId>nablarch-parent</artifactId>
-    <version>5u13</version>
+    <version>6</version>
   </parent>
 
   <dependencies>
